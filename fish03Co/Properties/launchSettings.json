@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fish03Co": {
+      "commandName": "Project",
+      "commandLineArgs": "U:\\tmp\\fisher\\laika.db  1.7"
+    }
+  }
+}

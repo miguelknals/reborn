@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fish04Co": {
+      "commandName": "Project",
+      "commandLineArgs": "U:\\tmp\\fisher\\laika.db U:\\tmp\\fisher\\test.ca.txt U:\\tmp\\fisher\\test.es.txt  200 100"
+    }
+  }
+}

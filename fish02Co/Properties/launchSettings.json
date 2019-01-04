@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fish02Co": {
+      "commandName": "Project",
+      "commandLineArgs": "create U:\\tmp\\fisherD\\laikaV2.db U:\\tmp\\fisherD\\DOGC_Base_BK.ca U:\\tmp\\fisherD\\DOGC_Base_BK.es 1 3000"
+    }
+  }
+}
